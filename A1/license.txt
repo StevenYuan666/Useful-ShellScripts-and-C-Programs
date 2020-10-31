@@ -1,0 +1,3 @@
+Copyright: Ye Yuan, 2020 - All Rights Reserved
+Email    : ye.yuan3@mail.mcgill.ca
+Dept     : Faculty of Science
