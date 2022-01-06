@@ -1,0 +1,1 @@
+	char *delim = " \t\n,:;'\".?!#$-><(){}[]|\\/*&^%@!~+=_"; // These are our word delimiters.
